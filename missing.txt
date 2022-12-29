@@ -8,9 +8,15 @@ network_entry
 network-entry
 ~myfiles
 _myfiles
+-myfiles
+my-files
+my_files
 ~files
 _files
+-files
 ~files-my
 _files-my
+-files-my
 ~files_my
 _files_my
+-files_my
