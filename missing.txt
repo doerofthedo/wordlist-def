@@ -22,3 +22,9 @@ _files_my
 -files_my
 ~secret
 _secret
+-secret
+.secret
+.mysecret
+~mysecret
+-mysecret
+_mysecret
