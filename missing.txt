@@ -28,3 +28,4 @@ _secret
 ~mysecret
 -mysecret
 _mysecret
+drippinchad.png
