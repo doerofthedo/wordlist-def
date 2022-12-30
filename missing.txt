@@ -28,4 +28,9 @@ _secret
 ~mysecret
 -mysecret
 _mysecret
+drippinchad
 drippinchad.png
+internalResourceFeTcher
+internalResourceFeTcher.php
+configuration.php.bak
+configuration.bak
