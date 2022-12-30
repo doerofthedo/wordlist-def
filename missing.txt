@@ -31,6 +31,13 @@ _mysecret
 drippinchad
 drippinchad.png
 internalResourceFeTcher
+internalresourcefetcher
 internalResourceFeTcher.php
 configuration.php.bak
 configuration.bak
+horcrux1
+horcrux1.txt 
+horcrux2
+horcrux2.txt 
+horcrux3
+horcrux3.txt 
